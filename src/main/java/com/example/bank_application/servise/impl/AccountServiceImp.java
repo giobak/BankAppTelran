@@ -1,6 +1,8 @@
-package com.example.bank_application.service.impl;
+package com.example.bank_application.servise.impl;
 
-import com.example.bank_application.dto.accountDto.*;
+import com.example.bank_application.dto.accountDto.AccountAfterCreateDto;
+import com.example.bank_application.dto.accountDto.AccountCreateDto;
+import com.example.bank_application.dto.accountDto.AccountDto;
 import com.example.bank_application.entity.Account;
 import com.example.bank_application.entity.Client;
 import com.example.bank_application.entity.enums.AccountStatus;
@@ -8,8 +10,8 @@ import com.example.bank_application.entity.enums.AccountType;
 import com.example.bank_application.mapper.AccountMapper;
 import com.example.bank_application.repository.AccountRepository;
 import com.example.bank_application.repository.ClientRepository;
-import com.example.bank_application.service.exceptions.*;
-import com.example.bank_application.service.interf.AccountService;
+import com.example.bank_application.exceptions.*;
+import com.example.bank_application.servise.interf.AccountService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -30,7 +32,8 @@ public class AccountServiceImp implements AccountService {
     @Override
     @Transactional(readOnly = true)
     public AccountDto getAccountById(String id) {
-        return accountMapper.toDto(accountRepository.findAccountById(UUID.fromString(id)).orElseThrow(
+        return accountMapper.toDto(accountRepository.findAccountById(UUID.fromString(id))
+                .orElseThrow(
                 () -> new DataNotFoundException(ErrorMessage.ACCOUNT_NOT_FOUND)));
     }
 

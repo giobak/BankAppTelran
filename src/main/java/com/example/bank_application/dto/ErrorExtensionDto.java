@@ -1,6 +1,7 @@
 package com.example.bank_application.dto;
 
-import lombok.*;
+import lombok.AccessLevel;
+import lombok.Value;
 import lombok.experimental.FieldDefaults;
 
 @Value

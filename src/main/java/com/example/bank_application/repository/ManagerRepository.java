@@ -13,4 +13,6 @@ public interface ManagerRepository extends JpaRepository<Manager, Integer> {
 
     List<Manager> getAllByClientsNotNull();
 
+
+
 }

@@ -5,8 +5,6 @@ import com.example.bank_application.validation.annotation.EnumAccountStatusOrNul
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 
-import java.util.Optional;
-
 public class EnumAccountStatusConstraint implements ConstraintValidator<EnumAccountStatusOrNull, String> {
 
     @Override

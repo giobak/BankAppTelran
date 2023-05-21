@@ -8,6 +8,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 
 import java.io.Serializable;
 import java.util.UUID;
+
 @RequiredArgsConstructor
 public class UuidTimeSequenceGenerator implements IdentifierGenerator {
     private static final String NEXT_VAL_QUERY = "SELECT nextval('seq_for_uuid_generator');";

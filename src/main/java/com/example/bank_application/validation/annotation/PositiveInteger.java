@@ -1,6 +1,5 @@
 package com.example.bank_application.validation.annotation;
 
-import com.example.bank_application.validation.annotation.impl.PositiveDecimalConstraint;
 import com.example.bank_application.validation.annotation.impl.PositiveIntegerConstraint;
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;

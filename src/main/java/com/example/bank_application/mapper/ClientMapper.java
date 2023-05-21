@@ -16,4 +16,7 @@ public interface ClientMapper {
     Client toEntity(ClientDto clientDto);
 
     List<ClientWithBalanceDto> toListDtoWithBalance(List<Client> clients);
+
+    List<ClientDto> toListDto(List<Client> clients);
+
 }

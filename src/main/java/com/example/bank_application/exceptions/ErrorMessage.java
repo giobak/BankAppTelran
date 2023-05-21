@@ -1,4 +1,4 @@
-package com.example.bank_application.service.exceptions;
+package com.example.bank_application.exceptions;
 
 public class ErrorMessage {
     public static final String INVALID_PATH_VARIABLE = "Variable for path is invalid";

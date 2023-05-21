@@ -8,24 +8,24 @@
         <insert tableName="managers">
             <column name="id"/>
 <!--            <column name="id" value="1"/>-->
-            <column name="first_name" value="Andrej"/>
-            <column name="last_name" value="Grinev"/>
+            <column name="first_name" value="aaaaaaa"/>
+            <column name="last_name" value="AAAAAAA"/>
             <column name="status" value="ACTIVE"/>
             <column name="created_at" value="2020-06-01 09:30:00"/>
         </insert>
         <insert tableName="managers">
             <column name="id"/>
 <!--            <column name="id" value="2"/>-->
-            <column name="first_name" value="Luka"/>
-            <column name="last_name" value="Nikitin"/>
+            <column name="first_name" value="bbbbbb"/>
+            <column name="last_name" value="BBBBBBB"/>
             <column name="status" value="ACTIVE"/>
             <column name="created_at" value="2020-12-15 10:22:23"/>
         </insert>
         <insert tableName="managers">
             <column name="id"/>
 <!--            <column name="id" value="3"/>-->
-            <column name="first_name" value="Anatolij"/>
-            <column name="last_name" value="Petrov"/>
+            <column name="first_name" value="cccccc"/>
+            <column name="last_name" value="CCCCCCCC"/>
         </insert>
     </changeSet>
 

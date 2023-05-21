@@ -14,4 +14,6 @@ public interface ClientRepository extends JpaRepository<Client, UUID> {
 
     @Query("SELECT distinct c from Client c JOIN c.accounts a where a.balance >=:balance ")
     List<Client> findClientsBy(Double balance);
+
+    List<Client> getAllBy();
 }

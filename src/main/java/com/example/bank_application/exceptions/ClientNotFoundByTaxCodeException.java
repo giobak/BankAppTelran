@@ -1,4 +1,4 @@
-package com.example.bank_application.service.exceptions;
+package com.example.bank_application.exceptions;
 
 public class ClientNotFoundByTaxCodeException extends RuntimeException{
     public ClientNotFoundByTaxCodeException(String message) {

@@ -1,18 +1,20 @@
 package com.example.bank_application.controller;
 
-import com.example.bank_application.dto.accountDto.*;
-import com.example.bank_application.service.interf.AccountService;
+import com.example.bank_application.dto.accountDto.AccountAfterCreateDto;
+import com.example.bank_application.dto.accountDto.AccountCreateDto;
+import com.example.bank_application.dto.accountDto.AccountDto;
+import com.example.bank_application.servise.interf.AccountService;
 import com.example.bank_application.validation.annotation.EnumAccountStatusOrNull;
 import com.example.bank_application.validation.annotation.PositiveInteger;
 import com.example.bank_application.validation.annotation.Uuid;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+
 @Validated
 @RestController
 @RequestMapping("/accounts")

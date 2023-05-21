@@ -1,4 +1,4 @@
-package com.example.bank_application.service.exceptions;
+package com.example.bank_application.exceptions;
 
 public class ManagerAlreadyExists extends RuntimeException{
     public ManagerAlreadyExists(String message) {

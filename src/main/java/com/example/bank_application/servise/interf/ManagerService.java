@@ -1,4 +1,4 @@
-package com.example.bank_application.service.interf;
+package com.example.bank_application.servise.interf;
 
 import com.example.bank_application.dto.managerDto.ManagerAfterCreateDto;
 import com.example.bank_application.dto.managerDto.ManagerCreateDto;
@@ -10,4 +10,6 @@ public interface ManagerService {
     ManagerListDto getAllManagersWithClients();
 
     ManagerAfterCreateDto managerNewCreate(ManagerCreateDto managerCreateDto);
+
+
 }
