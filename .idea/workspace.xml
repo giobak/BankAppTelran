@@ -5,73 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d70586ed-bf8e-454a-a1ea-b46894a3d37f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sakila.oXLGyQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sakila.oXLGyQ.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sys.zb4BAA.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/aspect/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/ClientMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/ManagerMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/impl/ClientMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/impl/ManagerMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/servise/impl/AccountServiceImpTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/servise/impl/ClientServiceImpTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/servise/impl/ManagerServiceImpTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/util/DtoCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/util/EntityCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tables.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/controller/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/controller/ClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/controller/ManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/controller/ManagerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/ErrorExtensionDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/ErrorExtensionDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/accountDto/AccountDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/accountDto/AccountDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/clientDto/ClientWithBalanceListDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/clientDto/ClientWithBalanceListDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/managerDto/ManagerAfterCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/managerDto/ManagerAfterCreateDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ClientNotFoundByTaxCodeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ClientNotFoundByTaxCodeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/DataAlreadyExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/DataAlreadyExistException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/DataNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/DataNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ErrorMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/InvalidSearchArgumentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/InvalidSearchArgumentException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ManagerAlreadyExists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ManagerAlreadyExists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ManagerNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/ManagerNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/NotEnoughDataToCreateEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/exceptions/NotEnoughDataToCreateEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/generator/UuidTimeSequenceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/generator/UuidTimeSequenceGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/AccountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/AccountMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/ClientMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/ClientMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/ManagerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/ManagerMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/UuidMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/mapper/UuidMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/repository/ClientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/repository/ClientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/repository/ManagerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/repository/ManagerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/delete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/AccountServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/AccountServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/ClientServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/ClientServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/ManagerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/ManagerServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/interf/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/interf/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/interf/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/interf/ClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/interf/ManagerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/interf/ManagerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/EnumAccountStatusOrNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/EnumAccountStatusOrNull.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/PositiveInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/PositiveInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/Uuid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/Uuid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/impl/EnumAccountStatusConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/impl/EnumAccountStatusConstraint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/impl/EnumAccountTypeConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/impl/EnumAccountTypeConstraint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/impl/EnumCurrencyTypeConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/validation/annotation/impl/EnumCurrencyTypeConstraint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti1-insert-data-to-managers-changelog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti1-insert-data-to-managers-changelog.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti4-insert-data-to-clients-changelog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti4-insert-data-to-clients-changelog.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/bank_application/controller/AccountControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/controller/AccountControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/AccountMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/AccountMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/impl/AccountMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/mapper/impl/AccountMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/bank_application/t.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +152,7 @@
       <workItem from="1684266511599" duration="3953000" />
       <workItem from="1684309652406" duration="14167000" />
       <workItem from="1684605472771" duration="11616000" />
-      <workItem from="1684682071750" duration="4822000" />
+      <workItem from="1684682071750" duration="6111000" />
     </task>
     <servers />
   </component>
