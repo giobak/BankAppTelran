@@ -12,7 +12,7 @@
     <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
-    <connection id="682f4711-0029-4eb8-ae43-ace3514b5607">
+    <connection id="1bee53ce-2d8c-44a0-9cd1-8f02b0363626">
       <console name="Connection" type="STANDARD" schema="mysql" session="Main" />
     </connection>
   </component>
@@ -20,25 +20,12 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="1bee53ce-2d8c-44a0-9cd1-8f02b0363626" object-ref="schemas/bank/tables/clients" />
+    </open-files>
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
-    <filter-actions connection-id="682f4711-0029-4eb8-ae43-ace3514b5607" dataset="bank.accounts" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="682f4711-0029-4eb8-ae43-ace3514b5607" dataset="bank.agreements" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="682f4711-0029-4eb8-ae43-ace3514b5607" dataset="bank.clients" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="682f4711-0029-4eb8-ae43-ace3514b5607" dataset="bank.databasechangelog" active-filter-id="EMPTY_FILTER" />
-    <filter-actions connection-id="682f4711-0029-4eb8-ae43-ace3514b5607" dataset="bank.managers" active-filter-id="EMPTY_FILTER" />
-  </component>
-  <component name="DBNavigator.Project.ExecutionManager">
-    <retain-sticky-names value="false" />
-  </component>
-  <component name="DBNavigator.Project.MethodExecutionManager">
-    <method-browser />
-    <execution-history>
-      <group-entries value="true" />
-      <execution-inputs />
-    </execution-history>
-    <argument-values-cache />
+    <filter-actions connection-id="1bee53ce-2d8c-44a0-9cd1-8f02b0363626" dataset="bank.clients" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
@@ -46,7 +33,7 @@
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
-      <connection id="682f4711-0029-4eb8-ae43-ace3514b5607" active="true" signed="true">
+      <connection id="1bee53ce-2d8c-44a0-9cd1-8f02b0363626" active="true" signed="true">
         <database>
           <name value="Connection" />
           <description value="" />

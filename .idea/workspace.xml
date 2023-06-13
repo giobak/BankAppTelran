@@ -4,33 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d70586ed-bf8e-454a-a1ea-b46894a3d37f" name="Changes" comment="">
+    <list default="true" id="3ccdf1af-15dc-4201-a331-2a6f84ca03f2" name="Changes" comment="commit changes">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/information_schema.FNRwLQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sakila.oXLGyQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sakila.oXLGyQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff4e9732-eb48-4d13-b591-44e461dbb632/storage_v2/_src_/schema/sys.zb4BAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/accountDto/AccountCreateDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/dto/accountDto/AccountCreateDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/AccountServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/AccountServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/ClientServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/bank_application/servise/impl/ClientServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti1-insert-data-to-managers-changelog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti1-insert-data-to-managers-changelog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti4-insert-data-to-clients-changelog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/changelog/changes/v0.0.1-SNAPSHOT/ti4-insert-data-to-clients-changelog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/bank_application/controller/AccountControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/bank_application/controller/AccountControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,116 +57,74 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2PjWYlTavsu3j1T5jwr8Ut5l7Oa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2Ql8X5MIIR8acykqwJgM7Vw1u9G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/PROJECT/ox/BankAppTelran",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "spring.configuration.checksum": "a4db352719a97e8171ba7eb9f14170fe",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a4db352719a97e8171ba7eb9f14170fe&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\PROJECT\oxana\BankAppTelran\src\test\java\com\example\bank_application\mapper\impl" />
-      <recent name="C:\PROJECT\oxana\BankAppTelran\src\test\java\com\example\bank_application\mapper" />
-      <recent name="C:\PROJECT\oxana\BankAppTelran\src\test\java\com\example\bank_application\servise\impl" />
-      <recent name="C:\PROJECT\oxana\BankAppTelran" />
-      <recent name="C:\PROJECT\oxana\BankAppTelran\src\test\java\com\example\bank_application\util" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.example.bank_application.servise.impl" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.example.bank_application.controller" />
-      <recent name="com.example.bank_application.mapper" />
-      <recent name="com.example.bank_application.mapper.impl" />
-      <recent name="com.example.bank_application.servise.impl" />
-      <recent name="com.example.bank_application.repository" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Spring Boot.BankApplication">
-    <configuration name="All in BankAppTelran" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BankAppTelran" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BankApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager">
+    <configuration name="BankApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <envs>
         <env name="app.server.url" value="http://localhost:8080" />
-        <env name="datasource.password" value="GIO" />
         <env name="datasource.url" value="jdbc:mysql://localhost:3306/bank" />
         <env name="datasource.username" value="GIO" />
+        <env name="datasource.password" value="GIO" />
       </envs>
       <module name="BankAppTelran" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bank_application.BankApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.bank_application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.BankApplication" />
-        <item itemvalue="JUnit.All in BankAppTelran" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d70586ed-bf8e-454a-a1ea-b46894a3d37f" name="Changes" comment="" />
-      <created>1683971024501</created>
+      <changelist id="3ccdf1af-15dc-4201-a331-2a6f84ca03f2" name="Changes" comment="" />
+      <created>1685916844813</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683971024501</updated>
-      <workItem from="1683971025656" duration="4892000" />
-      <workItem from="1683979843265" duration="20386000" />
-      <workItem from="1684091692592" duration="781000" />
-      <workItem from="1684266511599" duration="3953000" />
-      <workItem from="1684309652406" duration="14167000" />
-      <workItem from="1684605472771" duration="11616000" />
-      <workItem from="1684682071750" duration="7819000" />
+      <updated>1685916844813</updated>
+      <workItem from="1685916847763" duration="1199000" />
+      <workItem from="1685952742617" duration="2636000" />
+      <workItem from="1686299053369" duration="2234000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

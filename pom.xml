@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>BankAppTelran</name>
-  <url>http://maven.apache.org</url>
+  <url>https://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -56,12 +56,11 @@
       <artifactId>spring-boot-starter-web</artifactId>
       <version>3.0.4</version>
     </dependency>
-    <!--        <dependency>-->
-    <!--            <groupId>org.springframework.security</groupId>-->
-    <!--            <artifactId>spring-security-test</artifactId>-->
-    <!--            <version>6.0.2</version>-->
-    <!--            <scope>test</scope>-->
-    <!--        </dependency>-->
+
+
+
+
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
