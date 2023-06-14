@@ -19,14 +19,14 @@ import java.util.List;
 @Service
 @RequiredArgsConstructor
 public class ClientServiceImp implements ClientService {
-    final private ClientRepository clientRepository;
+    private final ClientRepository clientRepository;
 
-    final private ClientMapper clientMapper;
+    private final ClientMapper clientMapper;
 
 
     @Override
     public ClientWithBalanceListDto getListClientsWithBalanceMoreThan(String balance) {
-        Double balanceD;
+        double balanceD;
         try {
             balanceD = Double.valueOf(balance);
         } catch (IllegalArgumentException e) {
