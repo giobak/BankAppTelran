@@ -97,14 +97,6 @@ public class AccountServiceImp implements AccountService {
         return new ArrayList<>(accountMapper.toListAfterCreateDto(accountRepository.saveAll(accountsByStatusAndProductId)));
     }
 
-//    private List<Account> getAllEntityAccountsByStatus(String status) {
-//        AccountStatus statusEnum;
-//        try {
-//            statusEnum = AccountStatus.valueOf(status);
-//        } catch (RuntimeException e) {
-//            throw new InvalidSearchArgumentException(ErrorMessage.ARGUMENT_IS_WRONG_IMPOSSIBLE);
-//        }
-//        return accountRepository.getAllByStatus(AccountStatus.valueOf(status));
-//    }
+
 }
 

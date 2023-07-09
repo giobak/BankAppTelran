@@ -9,12 +9,16 @@ public class AccountCreateDto {
     @NotNull
     @Iban
     String name;
+
     @EnumAccountTypeOrNull
     String type;
+
     @EnumAccountStatusOrNull
     String status;
+
     @PositiveDecimalOrNull
     String balance;
+
     @NotNull
     @EnumCurrencyType
     String currencyCode;

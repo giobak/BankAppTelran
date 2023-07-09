@@ -10,8 +10,8 @@
             <column name="manager_id" value="1"/>
             <column name="status" value="ACTIVE"/>
             <column name="tax_code" value="1234554321"/>
-            <column name="first_name" value="yyyyy"/>
-            <column name="last_name" value="yyyyyyyyyyyyyyyyyy"/>
+            <column name="first_name" value="Tom"/>
+            <column name="last_name" value="Tompson"/>
             <column name="email" value="yyyy@ggg.com"/>
             <column name="address" value="Berlin, Fridrichshagener Str., 55"/>
             <column name="phone" value="+121212121233"/>
@@ -23,8 +23,8 @@
             <column name="manager_id" value="1"/>
             <column name="status" value="ACTIVE"/>
             <column name="tax_code" value="2233445566"/>
-            <column name="first_name" value="xxxxxxxx"/>
-            <column name="last_name" value="xxxxxxxxxxxxx"/>
+            <column name="first_name" value="John"/>
+            <column name="last_name" value="Johanson"/>
             <column name="email" value="a.xxx@ggg.com"/>
             <column name="address" value="Potsdam, Jegerstrasse Str., 1"/>
             <column name="phone" value="+9911293452"/>
@@ -36,8 +36,8 @@
             <column name="manager_id" value="1"/>
             <column name="status" value="ACTIVE"/>
             <column name="tax_code" value="3234455466"/>
-            <column name="first_name" value="cccccc"/>
-            <column name="last_name" value="CCCCCCCCCCC"/>
+            <column name="first_name" value="Billy"/>
+            <column name="last_name" value="bilson"/>
             <column name="address" value="Berlin, Waldstrasse, 12"/>
             <column name="created_at" value="2021-12-20 09:00:00"/>
         </insert>
@@ -47,8 +47,8 @@
             <column name="manager_id" value="2"/>
             <column name="status" value="ACTIVE"/>
             <column name="tax_code" value="233223521"/>
-            <column name="first_name" value="vvvvvvvvvvv"/>
-            <column name="last_name" value="vvvvvvvvvvvvvvvvvvvv"/>
+            <column name="first_name" value="Kate"/>
+            <column name="last_name" value="Katson"/>
             <column name="email" value="vvvvv@ggg.com"/>
             <column name="address" value="Vienna, 55112"/>
             <column name="created_at" value="2021-12-20 09:00:00"/>
